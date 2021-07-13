@@ -27,37 +27,37 @@ we use this command to retrieve a copy of a project, in this exmpale  you can ge
 
 ## How to sync local repo with the remote one
 
-`git pull` 
+ `$ git pull` 
 
 it gave all change from remote repository  and writte in local repository
 
 ## reset vs revert vs checkout
 
-reset:`git reset COMMIT-NUM` restore to `COMMIT-NUM`  and remove ahead commits
+reset:` $ git reset COMMIT-NUM` restore to `COMMIT-NUM`  and remove ahead commits
 
-revert: `git revert COMMIT-NUM` restore to `COMMIT-NUM` and make a commit to remind the path
+revert: ` $ git revert COMMIT-NUM` restore to `COMMIT-NUM` and make a commit to remind the path
 
-checkout: `git checkout COMMIT-NUM` to change head to  mentioned commit number
+checkout: `$ git checkout COMMIT-NUM` to change head to  mentioned commit number
 
 ## rebase vs merge
 
-rebase: `git rebase` order commits by commit number
+rebase: `$ git rebase` order commits by commit number
 
 merge: merge change to make a commit
 
 ## how to show history
 
-to show history use `git log`
+to show history use `$ git log`
 
 ## how to show differnces with head
 
-`git diff`
+`$ git diff`
 
 ## Tag, how use it
 
 use tag to version the project, to make easy to get release from it
 
-`git  tag v1.0`
+`$ git  tag v1.0`
 
 ## how to contribute to any project
 
@@ -67,10 +67,11 @@ first of all, clone it `$ git clone https://github.com/mi-alkhamis/git-cheatshee
 
 ## What is the branch and how to merge it
 
-make a branch when you work on a bugfix, a new feature, or somthing like it, and don't want to effort all project, so make a brach `git branch NAME` after making changes merge it `git merge`
+make a branch when you work on a bugfix, a new feature, or somthing like it, and don't want to effort all project, so make a brach `$ git branch NAME` after making changes merge it `$ git merge`
 
 
 ## License
 This project is licensed under the GPL-3.0 License  - see the [LICENSE](./LICENSE) file for details.
 
 [@dwsclass](https://github.com/dwsclass) dws-dev-004-git
+
