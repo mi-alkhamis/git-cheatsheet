@@ -1,10 +1,26 @@
 
-# Git cheat sheet
+# Git cheatsheet
+[![](https://img.shields.io/badge/dwclass-dev--004--git-brightgreen&style=plastic)](https://github.com/mi-alkhamis/git-cheatsheet/blob/main/README.md)
 [![GitHub stars](https://img.shields.io/github/stars/mi-alkhamis/git-cheatsheet?color=magenta&label=Stars&style=plastic)](https://github.com/mi-alkhamis/git-cheatsheet/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/mi-alkhamis/git-cheatsheet?label=Forks&style=plastic)](https://github.com/mi-alkhamis/git-cheatsheet/network)  [![GitHub license](https://img.shields.io/github/license/mi-alkhamis/git-cheatsheet?color=Green&label=License&style=plastic)](https://github.com/mi-alkhamis/git-cheatsheet/blob/main/LICENSE) 
 
-This documents represents most common Git commands with examples. 
+![git-logo](./images/git-logo.png)
 
+This documents represents most common Git commands discussed in dwclass. 
+
+
+# TO DO:
+   - [ ] Table of contents
+   - [ ] Add git cheet sheat with examples
+   - [ ] Add some pic to show how git works
+     
+# Contribute
+
+ All contributions are welcome:
+
+   -  Read the issues, Fork the project and do a Pull Request.
+   -  Request a new topic creating a New issue with the enhancement tag.
+   -  Find any kind of errors in the cheat sheet and create a New issue with the details or fork the project and do a Pull Request.
 
 ## FAQ
 
@@ -66,12 +82,7 @@ first of all, clone it `$ git clone https://github.com/mi-alkhamis/git-cheatshee
 
 make a branch when you work on a bugfix, a new feature, or somthing like it, and don't want to effort all project, so make a brach `$ git branch NAME` after making changes merge it `$ git merge`
 
-# TO DO:
-   - [ ] Table of contents
-   - [ ] Add git cheet sheat with examples
-   - [ ] Add some pic to show how git works
-     
-
+  
 ## License
 This project is licensed under the GPL-3.0 License  - see the [LICENSE](./LICENSE) file for details.
 
