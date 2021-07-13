@@ -1,5 +1,5 @@
 
-# Git cheatsheet
+# Git cheat sheet
 [![GitHub stars](https://img.shields.io/github/stars/mi-alkhamis/git-cheatsheet?color=magenta&label=Stars&style=plastic)](https://github.com/mi-alkhamis/git-cheatsheet/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/mi-alkhamis/git-cheatsheet?label=Forks&style=plastic)](https://github.com/mi-alkhamis/git-cheatsheet/network)  [![GitHub license](https://img.shields.io/github/license/mi-alkhamis/git-cheatsheet?color=Green&label=License&style=plastic)](https://github.com/mi-alkhamis/git-cheatsheet/blob/main/LICENSE) 
 
