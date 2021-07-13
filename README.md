@@ -1,2 +1,2 @@
-# git-cheatsheet
-Another Git cheatsheet
+# Git cheatsheet
+This documents represts most common Git commands
