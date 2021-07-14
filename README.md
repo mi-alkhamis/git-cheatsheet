@@ -6,7 +6,7 @@
 
 ![git-logo](./images/git-logo.png)
 
-This documents represents most common Git commands discussed in dwclass. 
+This document represents the most common Git commands discussed in dwclass. 
 
 
 # TO DO:
@@ -18,7 +18,7 @@ This documents represents most common Git commands discussed in dwclass.
 
  All contributions are welcome:
 
-   -  Read the issues, Fork the project and do a Pull Request.
+   -  Read the issues, fork the project and do a Pull Request.
    -  Request a new topic creating a New issue with the enhancement tag.
    -  Find any kind of errors in the cheat sheet and create a New issue with the details or fork the project and do a Pull Request.
 
@@ -28,27 +28,27 @@ This documents represents most common Git commands discussed in dwclass.
 
 Git tracks the changes you make to files, so you have a record of what has been done, and you can revert to specific versions should you ever need to.
 
-### What is the repository and how to orgenize it
+### What is the repository and how to organize it
 
-Repositories  contain a collection of files of various different versions of a Project. it must contains README.md ,and LICENSE
+Repositories contain a collection of files of various versions of a Project. it must contain README.md and LICENSE
 
 ### Git clone
 
 `$ git clone https://github.com/mi-alkhamis/git-cheatsheet.git`
 
-we use this command to retrieve a copy of a project, in this exmpale  you can get copy of mine :smile:
+we use this command to retrieve a copy of a project, in this example, you can get a copy of mine :smile:
 
 ### How to sync local repo with the remote one
 
  `$ git pull` 
 
-it gave all change from remote repository  and writte in local repository
+it gave all changes from the remote repository  and write in the local repository
 
 ### reset vs revert vs checkout
 
 reset:` $ git reset COMMIT-NUM` restore to `COMMIT-NUM`  and remove ahead commits
 
-revert: ` $ git revert COMMIT-NUM` restore to `COMMIT-NUM` and make a commit to remind the path
+revert: ` $ git revert COMMIT-NUM` restore to `COMMIT-NUM` and make a commitment to remind the path
 
 checkout: `$ git checkout COMMIT-NUM` to change head to  mentioned commit number
 
@@ -62,25 +62,25 @@ merge: merge change to make a commit
 
 to show history use `$ git log`
 
-### how to show differnces with head
+### how to show differences with head
 
 `$ git diff`
 
-### Tag, how use it
+### Tag, how to use it
 
-use tag to version the project, to make easy to get release from it
+use a tag to version the project, to make it easy to get a release from it
 
 `$ git  tag v1.0`
 
 ### how to contribute to any project
 
-first of all, clone it `$ git clone https://github.com/mi-alkhamis/git-cheatsheet.git` after make change push it`git push` 
+first of all, clone it `$ git clone https://github.com/mi-alkhamis/git-cheatsheet.git` after making change push it `git push` 
 
-- NOTE: most of projects have `How to contribute` file, if this file exist, follow owner's rules to pull request
+- NOTE: most projects have  `How to contribute`  file, if this file exists, follow the owner's rules to pull the request
 
 ### What is the branch and how to merge it
 
-make a branch when you work on a bugfix, a new feature, or somthing like it, and don't want to effort all project, so make a brach `$ git branch NAME` after making changes merge it `$ git merge`
+make a branch when you work on a bugfix, a new feature, or something like it, and don't want to effort all project, so make a brach `$ git branch NAME` after making changes merge it `$ git merge`
 
   
 ## License
